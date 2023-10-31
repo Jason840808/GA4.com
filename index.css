@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     max-width: 1920px;
-    background: url(/images/bg.png) no-repeat center center fixed;
+    background: url(images/bg.png) no-repeat center center fixed;
     background-size: cover;
     font-family: 'Noto Sans TC', 'Be Vietnam Pro';
 }
@@ -41,7 +41,7 @@ body {
     flex-flow: row nowrap;
 }
 .logo {
-    background: url(/images/bnschool-logo-21.png) no-repeat center center;
+    background: url(images/bnschool-logo-21.png) no-repeat center center;
     background-size: contain;
     height: 70px;
     width: 300px;
@@ -64,7 +64,7 @@ body {
 .fblink {
     width: 70px;
     font-size: 30px;
-    background: url(/images/fb.png) center center no-repeat;
+    background: url(images/fb.png) center center no-repeat;
     background-size: contain;
 
 }
@@ -184,15 +184,15 @@ h3.b {
     flex-grow: 0;
 }
 .section5 .icon1 {
-    background: url(/images/icon-1.svg) center center no-repeat;
+    background: url(images/icon-1.svg) center center no-repeat;
     background-size: contain;
 }
 .section5 .icon2 {
-    background: url(/images/icon-2.svg) center center no-repeat;
+    background: url(images/icon-2.svg) center center no-repeat;
     background-size: contain;
 }
 .section5 .icon3 {
-    background: url(/images/icon-3.svg) center center no-repeat;
+    background: url(images/icon-3.svg) center center no-repeat;
     background-size: contain;
 }
 .item-text {
@@ -240,15 +240,15 @@ h3.b {
     height: 80px;
 }
 .section7 .icon1 {
-    background: url(/images/icon01.svg) center center no-repeat;
+    background: url(images/icon01.svg) center center no-repeat;
     background-size: cover;
 }
 .section7 .icon2 {
-    background: url(/images/icon02.svg) center center no-repeat;
+    background: url(images/icon02.svg) center center no-repeat;
     background-size: cover;
 }
 .section7 .icon3 {
-    background: url(/images/icon03.svg) center center no-repeat;
+    background: url(images/icon03.svg) center center no-repeat;
     background-size: cover;
 }
 .part-info {
@@ -310,10 +310,10 @@ h3.b {
     background-size: 300px 300px;
 }
 .speaker1 .speaker-img {
-    background: url(/images/speaker02.png) no-repeat top left;
+    background: url(images/speaker02.png) no-repeat top left;
 }
 .speaker2 .speaker-img {
-    background: url(/images/speaker01.png) no-repeat top left;
+    background: url(images/speaker01.png) no-repeat top left;
 }
 .speaker-name, .speaker-title {
     color: #FFF;
@@ -437,23 +437,23 @@ h3.b {
     font-weight: 500;
 }
 .extra1 {
-    background: url(/images/extra1.jpeg) center center no-repeat;
+    background: url(images/extra1.jpeg) center center no-repeat;
     background-size: cover;
 }
 .extra2 {
-    background: url(/images/extra2.jpeg) center center no-repeat;
+    background: url(images/extra2.jpeg) center center no-repeat;
     background-size: cover;
 }
 .extra3 {
-    background: url(/images/extra3.jpeg) center center no-repeat;
+    background: url(images/extra3.jpeg) center center no-repeat;
     background-size: cover;
 }
 .extra4 {
-    background: url(/images/extra4.jpeg) center center no-repeat;
+    background: url(images/extra4.jpeg) center center no-repeat;
     background-size: cover;
 }
 .extra5 {
-    background: url(/images/extra5.jpg) center center no-repeat;
+    background: url(images/extra5.jpg) center center no-repeat;
     background-size: cover;
 }
 /* section12 */
